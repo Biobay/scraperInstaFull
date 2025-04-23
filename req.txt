@@ -1,0 +1,6 @@
+# Installa tutte le dipendenze
+pip install selenium
+pip install webdriver-manager
+pip install instaloader
+pip install pyperclip
+pip install requests
